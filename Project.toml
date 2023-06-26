@@ -1,0 +1,16 @@
+name = "MeshDataset"
+uuid = "ee7021f0-5475-4f50-a080-55c26424b6a9"
+authors = ["Rui Rojo <rui.rojo@gmail.com> and contributors"]
+version = "0.1.11"
+
+[deps]
+DataDeps = "124859b0-ceae-595e-8997-d05f6a7a8dfe"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
