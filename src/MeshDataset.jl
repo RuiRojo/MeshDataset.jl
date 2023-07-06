@@ -45,6 +45,7 @@ function __init__()
     register_mesh( "Esferoide_1_7_341488", "lmesh", "") 
     register_mesh( "Esferoide_1_7_581518", "lmesh", "") 
     register_mesh( "Esferoide_1_7_64046", "lmesh", "") 
+    register_mesh( "Esferoide_5k", "lmesh", "") 
 
     register_mesh( "Fish_vejiga_smooth", "lmesh", "") 
     register_mesh( "Vejiga_11cm", "lmesh", "QmZq1Z8X9LSLwSHAQvFeuJqbmPomTNoWTRKQYrHfKaK5Xs", "cef2639d5a5e6376758e97bfe410f5703229f69102cdaf1556430747e47b308e") 
